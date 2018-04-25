@@ -1,4 +1,4 @@
-# Mcc-based-Suspicious-Link-Detection
+# Mcc-based-Suspicious-Link-Detection System
 Dataset and source code used in research paper entitled "Mutual Clustering Coefficient-based Suspicious-link Detection Approach for Online Social Networks  "
 
 
