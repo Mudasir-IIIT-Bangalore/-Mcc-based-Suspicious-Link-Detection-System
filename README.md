@@ -8,3 +8,5 @@ f1 -> holds the value for Mutual_clustering_Coefficient(Mcc).
 
 
 Link_list(edges) file contains the information about the connected uesrs pairs in the collected data. This file has been used to extract the information of only the connected users (friends) and their mutual connections. 
+
+# Mutual Clustering Coefficient-based Suspicious-link Detection Approach for Online Social Networks 
