@@ -73,7 +73,6 @@ for i in range(1,sheet2.nrows):
 
               m4 = fuzz.token_set_ratio(n_e1, n_e2);
               print("fuzz.token_set_ratio-> " + `m4`);
-              print("--------------------------------------------------------------------------------------------------");
               count = count + 1;
 print("Total edges-> "+`count`);
 
